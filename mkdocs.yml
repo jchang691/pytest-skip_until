@@ -1,0 +1,10 @@
+site_name: pytest-skip_until
+site_description: Skips a test until a condition or date is met
+site_author: Justin Chang
+
+theme: readthedocs
+
+repo_url: https://github.com/jchang691/pytest-skip_until
+
+pages:
+- Home: index.md
